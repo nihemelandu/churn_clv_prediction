@@ -1,2 +1,4 @@
 # churn_clv_prediction
-A machine learning pipeline for churn prediction and customer lifetime value
+Question: Will this customer stop purchasing (or become inactive) in the next X days/weeks?
+
+Business use: Retention campaigns, win-back offers.
